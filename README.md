@@ -14,7 +14,7 @@ To explore patterns in food delivery delays and build a simple linear regression
 
 ## Tools & Technologies
 - Python (Pandas, NumPy, Seaborn, Matplotlib, Scikit-learn)
-- Google Colab
+- Jupyter Notebook
 - CSV (simulated dataset)
 
 ## Key Steps
@@ -32,7 +32,7 @@ To explore patterns in food delivery delays and build a simple linear regression
 
 ## Files Included
 - `Swiggy_Delivery_Dataset.csv`: Simulated dataset
-- `Delivery_Time_Analysis.ipynb`: Colab Notebook with full analysis
+- `Delivery_Time_Analysis.ipynb`: Jupyter Notebook with full analysis
 
 ## How to Run
 1. Clone this repo or download the files
