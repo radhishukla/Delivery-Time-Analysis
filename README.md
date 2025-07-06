@@ -34,10 +34,10 @@ To explore patterns in food delivery delays and build a simple linear regression
 - `Swiggy_Delivery_Dataset.csv`: Simulated dataset
 - `Delivery_Time_Analysis.ipynb`: Colab Notebook with full analysis
 
-## 🚀 How to Run
+## How to Run
 1. Clone this repo or download the files
 2. Install required Python packages (`pandas`, `seaborn`, `scikit-learn`)
 3. Open `Delivery_Time_Analysis.ipynb` and run the notebook step by step
 
-## 📝 Author Notes
+## Author Notes
 This is a beginner-friendly data analytics project built for practice. Ideal for anyone learning EDA, regression modeling, or trying to understand how real-world logistics data can be analyzed.
